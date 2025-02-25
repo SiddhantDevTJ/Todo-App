@@ -150,8 +150,8 @@ li span {
   color: #1c2833;
 }
 
-.check-btn,
-.delete-btn {
+/* .check-btn, */
+/* .delete-btn {
   font-size: 3rem;
   cursor: pointer;
   width: 3rem;
@@ -161,7 +161,7 @@ li span {
   background-color: #fff;
   color: rgb(0, 0, 0);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-}
+} */
 
 .check-btn {
   color: #fff;
